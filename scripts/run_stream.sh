@@ -1,0 +1,1 @@
+spark-submit --master local[2] streaming/consumer.py

@@ -1,0 +1,3 @@
+v1
+{"path":"file:///D:/ds200-lab04/output/parquet/part-00000-1f81decc-4e98-4d4f-b925-315dd94decf4-c000.snappy.parquet","size":38744,"isDir":false,"modificationTime":1747551600639,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///D:/ds200-lab04/output/parquet/part-00001-302fbb16-0026-48f0-aa00-8268d6512ee7-c000.snappy.parquet","size":38615,"isDir":false,"modificationTime":1747551600639,"blockReplication":1,"blockSize":33554432,"action":"add"}
